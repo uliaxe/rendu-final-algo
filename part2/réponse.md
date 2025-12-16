@@ -33,5 +33,4 @@
   1. Je lance d'abord l'Algorithme Génétique pour créer un agent qui possède déjà des réflexes de survie de base.
   2. Je transfère ce "cerveau" pré-entraîné à l'Agent Apprenant.
   3. L'Agent commence donc son entraînement intensif avec de bonnes bases, ce qui lui permet d'atteindre un niveau de performance élevé beaucoup plus vite.
-
-
+  
